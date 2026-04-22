@@ -1,5 +1,12 @@
 # PEER REVIEW - E2
-
+**Member**
+- Nguyễn Văn Đạt - 2A202600411
+- Cao Chí Hải - 2A202600011
+- Bùi Hữu Huấn - 2A202600353
+- Nguyễn Doãn Hiếu -2A202600144
+- Mạc Phạm Thiên Long - 2A202600384
+- Nguyễn Tuấn Khanh - 2A202600409
+- Phan Hoài Linh - 2A202600278
 ---
 
 ## Phiếu chấm 1 đội
